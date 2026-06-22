@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Navleenkaur09/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/Navleenkaur09/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Navleenkaur09/Leetcode_solutions/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Navleenkaur09/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Navleenkaur09/Leetcode_solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Navleenkaur09/Leetcode_solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Navleenkaur09/Leetcode_solutions/tree/master/0509-fibonacci-number) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Navleenkaur09/Leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Navleenkaur09/Leetcode_solutions/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
