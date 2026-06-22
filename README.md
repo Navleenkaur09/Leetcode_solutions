@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Navleenkaur09/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Navleenkaur09/Leetcode_solutions/tree/master/0190-reverse-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Navleenkaur09/Leetcode_solutions/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Navleenkaur09/Leetcode_solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
