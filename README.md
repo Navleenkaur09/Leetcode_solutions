@@ -97,4 +97,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Navleenkaur09/Leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Navleenkaur09/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Navleenkaur09/Leetcode_solutions/tree/master/0268-missing-number) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Navleenkaur09/Leetcode_solutions/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Navleenkaur09/Leetcode_solutions/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Navleenkaur09/Leetcode_solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
